@@ -151,8 +151,8 @@ function init() {
             \n ## Tests
             \n ${resTests}
             \n ## Links
-            \n [${resTitle} Application](${resAppURL})
-            \n [${resTitle} Repository](${resRepoURL})
+            \n* [${resTitle} Application](${resAppURL})
+            \n* [${resTitle} Repository](${resRepoURL})
             \n ## Questions 
             \n [${resAuthor}](https://github.com/${resURL})
             \n If you have any problems or questions about the application please contact me via email on ${resQuestions}
